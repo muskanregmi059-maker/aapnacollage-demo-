@@ -1,2 +1,3 @@
 # aapnacollage-demo-
-this is my frist  repository
+This is my frist git repository
+Author-Muskan Regmi
